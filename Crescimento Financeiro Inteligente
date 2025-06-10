@@ -49,7 +49,12 @@ Implementar os primeiros gráficos no Streamlit
 Validar com casos de uso reais
 
 ▶️ Como Executar o Projeto Localmente
-Este projeto será desenvolvido em ambiente local utilizando Excel e Power BI. Quando finalizado, os arquivos estarão disponíveis neste repositório.
 
-🧾 Licença
+git clone https://github.com/seuusuario/projetos-pessoais.git
+cd crescimento-financeiro-inteligente
+pip install -r requirements.txt
+streamlit run app.py
+
+📟 Licença
+
 MIT
