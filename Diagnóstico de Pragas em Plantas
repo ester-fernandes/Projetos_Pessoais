@@ -1,0 +1,58 @@
+📁 Projeto:Diagnóstico de Pragas em Plantas 🧠📊
+
+📌 Objetivo
+
+Desenvolver um modelo de visão computacional capaz de identificar pragas e doenças em plantas a partir de imagens.
+
+🗂️ Base de Dados
+
+Fonte: [A definir]
+
+Descrição: Base de imagens de folhas/plantações com e sem infestações.
+
+🔧 Tecnologias Utilizadas
+
+Python / TensorFlow / Keras / OpenCV
+
+🧪 Etapas do Projeto
+
+Coleta de Imagens
+
+Pré-processamento (redimensionamento, normalização)
+
+Análise Exploratória
+
+Treinamento de Modelos de Deep Learning
+
+Avaliação dos Modelos
+
+Resultados e Métricas
+
+Interface Visual (futuramente)
+
+📊 Resultados
+
+Ainda não definidos
+
+🚀 Deploy / Visualização
+
+A definir
+
+💬 Conclusões
+
+Será uma ferramenta útil para o agronegócio e controle de perdas.
+
+🔁 Próximos Passos
+
+Montar dataset inicial e definir arquitetura de rede neural
+
+▶️ Como Executar o Projeto Localmente
+
+git clone https://github.com/seuusuario/diagnostico-pragas.git
+cd diagnostico-pragas
+pip install -r requirements.txt
+jupyter notebook
+
+🧾 Licença
+
+MIT
