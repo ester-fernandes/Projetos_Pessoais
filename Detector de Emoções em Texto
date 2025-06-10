@@ -1,0 +1,60 @@
+📁 Projeto:Detector de Emoções em Texto 🧠📊
+
+📌 Objetivo
+
+Construir um modelo que identifique emoções em textos curtos, como mensagens, postagens ou feedbacks, auxiliando em análises de sentimento.
+
+🗂️ Base de Dados
+
+Fonte: [A definir]
+
+Descrição: Planeja-se utilizar bases como Emotion Dataset ou dados abertos de redes sociais.
+
+🔧 Tecnologias Utilizadas
+
+Python / NLTK / Scikit-learn / Streamlit
+
+🧪 Etapas do Projeto
+
+Coleta dos Dados
+
+Limpeza e Pré-Processamento de Texto
+
+Análise Exploratória
+
+Engenharia de Atributos (TF-IDF, etc.)
+
+Treinamento de Modelos (Naive Bayes, etc.)
+
+Avaliação dos Modelos
+
+Interface Interativa com Streamlit
+
+📊 Resultados
+
+Ainda não definidos
+
+🚀 Deploy / Visualização
+
+A definir
+
+💬 Conclusões
+
+Em fase de preparação. Será útil em contextos educacionais, corporativos e sociais.
+
+🔁 Próximos Passos
+
+Escolher base de dados
+
+Iniciar limpeza de textos
+
+▶️ Como Executar o Projeto Localmente
+
+git clone https://github.com/seuusuario/detector-emocoes-texto.git
+cd detector-emocoes-texto
+pip install -r requirements.txt
+streamlit run app.py
+
+🧾 Licença
+
+MIT
