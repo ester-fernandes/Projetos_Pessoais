@@ -1,0 +1,45 @@
+📌 Objetivo
+Explorar e analisar dados de vendas online para identificar padrões de comportamento de compra, principais produtos vendidos e possíveis oportunidades de melhoria nas estratégias de vendas.
+
+🗂️ Base de Dados
+Fonte: A definir
+
+Descrição: A base de dados ainda será selecionada ou criada. A ideia é conter informações sobre vendas, datas, categorias de produtos, localização dos clientes, entre outras variáveis relevantes.
+
+🔧 Tecnologias Utilizadas
+Excel
+
+Power BI
+
+🧪 Etapas do Projeto (Planejamento)
+Definição da fonte de dados
+
+Estruturação e limpeza dos dados no Excel
+
+Análise exploratória com gráficos e tabelas
+
+Criação de painéis interativos no Power BI
+
+Geração de insights e recomendações
+
+📊 Resultados
+Ainda não há resultados disponíveis, pois o projeto está em fase inicial de estruturação.
+
+🚀 Deploy / Visualização
+Ainda não disponível.
+
+💬 Conclusões
+Este projeto está em fase de planejamento e tem como foco o desenvolvimento de habilidades em análise de dados com ferramentas acessíveis, como Excel e Power BI. O principal objetivo é compreender melhor o processo de análise e visualização de dados.
+
+🔁 Próximos Passos
+Escolher a base de dados
+
+Iniciar a limpeza e estruturação no Excel
+
+Construir os primeiros painéis no Power BI
+
+▶️ Como Executar o Projeto Localmente
+Este projeto será desenvolvido em ambiente local utilizando Excel e Power BI. Quando finalizado, os arquivos estarão disponíveis neste repositório.
+
+🧾 Licença
+MIT
