@@ -127,7 +127,7 @@ MIT
 
 ## 📬 Contato
 
-- 📧 Email: esterfbbrito@
+- 📧 Email: esterfbbrito@outlook.com
 - 🌐 LinkedIn: linkedin.com/in/esterfb-brito
 - 💻 GitHub: github.com/ester-fernandes
 
