@@ -1,0 +1,55 @@
+📁 Projeto:Raio-X das CPIs Brasileiras 🧠📊
+
+📌 Objetivo
+
+Investigar dados relacionados às Comissões Parlamentares de Inquérito (CPIs) no Brasil para entender seus temas, duração, resultados e impactos.
+
+🗂️ Base de Dados
+
+Fonte: [A definir]
+
+Descrição: A base será construída a partir de dados públicos do Senado e Câmara dos Deputados.
+
+🔧 Tecnologias Utilizadas
+
+Python / BeautifulSoup / Spacy
+
+🧪 Etapas do Projeto
+
+Coleta dos Dados
+
+Limpeza e Pré-Processamento
+
+Análise Exploratória
+
+Engenharia de Atributos
+
+Modelagem Preditiva
+
+Avaliação dos Modelos
+
+Resultados e Conclusão
+
+📊 Resultados
+
+Ainda não definidos
+
+🚀 Deploy / Visualização
+
+A definir
+
+💬 Conclusões
+
+Projeto em andamento. As conclusões serão atualizadas conforme o desenvolvimento.
+
+🔁 Próximos Passos
+
+Definir fontes de dados e estratégias de raspagem
+
+▶️ Como Executar o Projeto Localmente
+
+Este projeto será realizado em Power BI com apoio de scripts em Python. Os arquivos estarão disponíveis neste repositório.
+
+📟 Licença
+
+MIT
