@@ -1,0 +1,55 @@
+📁 Projeto: Crescimento Financeiro Inteligente 🧠📈
+
+📌 Objetivo
+
+Criar um painel simples para acompanhar despesas, receitas e metas financeiras, auxiliando no controle financeiro pessoal de forma visual e intuitiva.
+
+🗂️ Base de Dados
+
+Fonte: A definir
+
+Descrição: Os dados serão simulados ou inseridos manualmente, contendo colunas como data, categoria, valor, tipo (despesa/receita).
+
+🔧 Tecnologias Utilizadas
+
+Python
+
+Streamlit
+
+🧪 Etapas do Projeto (Planejamento)
+
+Definir estrutura de dados (CSV/Excel)
+
+Criar script de leitura e tratamento com Python
+
+Construir visualizações com Streamlit
+
+Adicionar filtros e interatividade
+
+Testar e ajustar interface
+
+📊 Resultados
+
+Ainda não há resultados disponíveis, pois o projeto está em fase inicial.
+
+🚀 Deploy / Visualização
+
+Ainda não disponível.
+
+💬 Conclusões
+
+Este projeto visa introduzir conceitos de controle financeiro com foco em interatividade e praticidade, utilizando ferramentas acessíveis para iniciantes em Python e desenvolvimento de dashboards.
+
+🔁 Próximos Passos
+
+Definir estrutura e layout dos dados
+
+Implementar os primeiros gráficos no Streamlit
+
+Validar com casos de uso reais
+
+▶️ Como Executar o Projeto Localmente
+Este projeto será desenvolvido em ambiente local utilizando Excel e Power BI. Quando finalizado, os arquivos estarão disponíveis neste repositório.
+
+🧾 Licença
+MIT
