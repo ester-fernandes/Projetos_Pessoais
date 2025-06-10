@@ -1,0 +1,55 @@
+📁 Projeto: Saúde em Dados: Doenças Regionais 🏥📈
+
+📌 Objetivo
+
+Visualizar a distribuição de doenças por regiões do Brasil para identificar padrões e auxiliar em políticas públicas de saúde.
+
+🗂️ Base de Dados
+
+Fonte: A definir (DATASUS ou IBGE)
+
+Descrição: A base deve conter tipo de doença, região, ano, número de casos, faixa etária.
+
+🔧 Tecnologias Utilizadas
+
+Power BI
+
+Plotly
+
+🧪 Etapas do Projeto (Planejamento)
+
+Obter dados sobre doenças regionais
+
+Tratar e classificar os dados
+
+Criar dashboards interativos com mapas e gráficos
+
+Explorar relações temporais e espaciais
+
+📊 Resultados
+
+Ainda não iniciados.
+
+🚀 Deploy / Visualização
+
+Ainda não disponível.
+
+💬 Conclusões
+
+Este projeto visa fortalecer a tomada de decisões em saúde pública com análise visual acessível a todos os níveis de usuários.
+
+🔁 Próximos Passos
+
+Localizar dados oficiais
+
+Desenvolver primeiros gráficos com Plotly
+
+Construir painel no Power BI
+
+▶️ Como Executar o Projeto Localmente
+
+O projeto estará disponível via Power BI e arquivos CSV/Excel neste repositório.
+
+📟 Licença
+
+MIT
