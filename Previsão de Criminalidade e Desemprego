@@ -1,0 +1,51 @@
+📁 Projeto:Previsão de Criminalidade e Desemprego 🧠📊
+
+📌 Objetivo
+Desenvolver modelos preditivos para antecipar índices de criminalidade e desemprego em diferentes regiões, auxiliando políticas públicas.
+
+🗂️ Base de Dados
+Fonte: [A definir]
+
+Descrição: Dados históricos de criminalidade, desemprego, indicadores socioeconômicos, séries temporais.
+
+🔧 Tecnologias Utilizadas
+SARIMA / LSTM / Plotly
+
+🧪 Etapas do Projeto
+Coleta dos Dados
+
+Limpeza e Pré-Processamento
+
+Análise Exploratória
+
+Engenharia de Atributos
+
+Modelagem com SARIMA e LSTM
+
+Avaliação dos Modelos
+
+Visualização Interativa
+
+📊 Resultados
+Ainda não definidos
+
+🚀 Deploy / Visualização
+A definir
+
+💬 Conclusões
+Projeto focado em apoiar tomada de decisão pública e planejamento estratégico.
+
+🔁 Próximos Passos
+Levantar bases confiáveis e iniciar pré-processamento.
+
+▶️ Como Executar o Projeto Localmente
+bash
+Copiar
+Editar
+git clone https://github.com/seuusuario/previsao-criminalidade-desemprego.git
+cd previsao-criminalidade-desemprego
+pip install -r requirements.txt
+jupyter notebook
+
+🧾 Licença
+MIT
