@@ -1,0 +1,48 @@
+📁 Projeto:Mapeamento de Perfis de Saúde Mental 🧠📊
+📌 Objetivo
+Identificar e segmentar perfis de saúde mental da população usando técnicas de redução dimensional e clustering.
+
+🗂️ Base de Dados
+Fonte: [A definir]
+
+Descrição: Dados de questionários, avaliações psicológicas, demografia.
+
+🔧 Tecnologias Utilizadas
+Scikit-learn / PCA / Seaborn
+
+🧪 Etapas do Projeto
+Coleta dos Dados
+
+Limpeza e Pré-Processamento
+
+Análise Exploratória
+
+Redução Dimensional com PCA
+
+Clustering e Segmentação
+
+Visualização e Interpretação
+
+📊 Resultados
+Ainda não definidos
+
+🚀 Deploy / Visualização
+A definir
+
+💬 Conclusões
+Objetiva fornecer insights para intervenções e políticas de saúde mental.
+
+🔁 Próximos Passos
+Buscar bases relevantes e iniciar análise exploratória.
+
+▶️ Como Executar o Projeto Localmente
+bash
+Copiar
+Editar
+git clone https://github.com/seuusuario/mapeamento-saude-mental.git
+cd mapeamento-saude-mental
+pip install -r requirements.txt
+jupyter notebook
+
+🧾 Licença
+MIT
