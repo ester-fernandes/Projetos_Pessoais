@@ -48,8 +48,11 @@ Definir fontes de dados e estratégias de raspagem
 
 ▶️ Como Executar o Projeto Localmente
 
-Este projeto será realizado em Power BI com apoio de scripts em Python. Os arquivos estarão disponíveis neste repositório.
+git clone https://github.com/seuusuario/projeto-cpis.git
+cd projeto-cpis
+pip install -r requirements.txt
+jupyter notebook
 
-📟 Licença
+🧾 Licença
 
 MIT
