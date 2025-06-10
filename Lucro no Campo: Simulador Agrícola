@@ -1,0 +1,58 @@
+📁 Projeto:Lucro no Campo: Simulador Agrícola 🧠📊
+
+📌 Objetivo
+
+Simular diferentes cenários agrícolas para auxiliar agricultores na tomada de decisão baseada em dados financeiros e produtivos.
+
+🗂️ Base de Dados
+
+Fonte: [A definir]
+
+Descrição: Será construída com estimativas de custo, produção e mercado agrícola.
+
+🔧 Tecnologias Utilizadas
+
+Excel / Python / Streamlit
+
+🧪 Etapas do Projeto
+
+Coleta dos Dados
+
+Limpeza e Pré-Processamento
+
+Análise Exploratória
+
+Engenharia de Atributos
+
+Construção do Simulador
+
+Testes e Validações
+
+Interface com Streamlit
+
+📊 Resultados
+
+Ainda não definidos
+
+🚀 Deploy / Visualização
+
+A definir
+
+💬 Conclusões
+
+Projeto em fase de concepção. Pretende-se oferecer um simulador interativo para pequenos e médios agricultores.
+
+ Próximos Passos
+
+Desenvolver estrutura inicial do simulador no Excel
+
+▶️ Como Executar o Projeto Localmente
+
+git clone https://github.com/seuusuario/lucro-no-campo.git
+cd lucro-no-campo
+pip install -r requirements.txt
+streamlit run app.py
+
+🧾 Licença
+
+MIT
