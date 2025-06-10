@@ -1,0 +1,57 @@
+📁 Projeto: Panorama da Educação Brasileira 📈📖
+
+📌 Objetivo
+
+Analisar indicadores educacionais brasileiros como taxa de escolarização, evasão escolar e IDEB para identificar desigualdades regionais e propor insights visuais.
+
+🗂️ Base de Dados
+
+Fonte: A definir (possivelmente INEP ou IBGE)
+
+Descrição: A base conterá dados por região, ano, faixa etária e nível de ensino. A estrutura detalhada será definida posteriormente.
+
+🔧 Tecnologias Utilizadas
+
+Pandas
+
+Power BI
+
+🧪 Etapas do Projeto (Planejamento)
+
+Buscar fontes públicas com dados educacionais
+
+Tratar e organizar os dados com Pandas
+
+Exportar para Excel/CSV
+
+Criar dashboards interativos no Power BI
+
+Explorar relações entre indicadores e regiões
+
+📊 Resultados
+
+Ainda não há resultados, o projeto está em fase de coleta e estruturação.
+
+🚀 Deploy / Visualização
+
+Ainda não disponível.
+
+💬 Conclusões
+
+Este projeto busca fortalecer a leitura crítica de dados educacionais, utilizando ferramentas acessíveis para iniciantes como Pandas e Power BI.
+
+🔁 Próximos Passos
+
+Selecionar bases de dados do INEP/IBGE
+
+Iniciar tratamento com Pandas
+
+Criar primeiros dashboards
+
+▶️ Como Executar o Projeto Localmente
+
+Este projeto será realizado em Power BI com apoio de scripts em Python. Os arquivos estarão disponíveis neste repositório.
+
+📟 Licença
+
+MIT
