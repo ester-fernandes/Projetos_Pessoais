@@ -1,0 +1,58 @@
+📁 Projeto: Descubra Filmes e Livros 🧠📊
+
+📌 Objetivo
+
+Criar um sistema de recomendação que sugira filmes e livros com base nas preferências do usuário, utilizando técnicas de machine learning.
+
+🗂️ Base de Dados
+
+Fonte: [A definir]
+
+Descrição: Bases contendo avaliações, gêneros e descrições de filmes e livros.
+
+🔧 Tecnologias Utilizadas
+
+Python / Pandas / Scikit-learn / Streamlit
+
+🧪 Etapas do Projeto
+
+Coleta dos Dados
+
+Limpeza e Pré-Processamento
+
+Análise Exploratória
+
+Engenharia de Atributos
+
+Construção do Sistema de Recomendação
+
+Avaliação dos Modelos
+
+Interface com Streamlit
+
+📊 Resultados
+
+Ainda não definidos
+
+🚀 Deploy / Visualização
+
+A definir
+
+💬 Conclusões
+
+O projeto visa facilitar a descoberta de novos conteúdos culturais com base em dados.
+
+🔁 Próximos Passos
+
+Definir datasets e abordagem inicial de recomendação
+
+▶️ Como Executar o Projeto Localmente
+
+git clone https://github.com/seuusuario/descubra-filmes-livros.git
+cd descubra-filmes-livros
+pip install -r requirements.txt
+streamlit run app.py
+
+🧾 Licença
+
+MIT
